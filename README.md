@@ -6,7 +6,7 @@ react + react-router + redux + immutable + less + ES6/7 + webpack + fetch
 
 ## 下载
 
- 	git clone https://github.com/bailicangdu/pxq.git
+ 	git clone https://github.com/GGS00/react-redux.git
 
  	cd react-pxq
 
