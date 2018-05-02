@@ -8,8 +8,6 @@ react + react-router + redux + immutable + less + ES6/7 + webpack + fetch
 
  	git clone https://github.com/GGS00/react-redux.git
 
- 	cd react-pxq
-
  	npm install
 
 
